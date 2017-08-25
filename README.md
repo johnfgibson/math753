@@ -19,19 +19,11 @@ Prerequisite: Math 426; Math 445 or CS 410 or IAM 550
   numerical grade = 10 class participation + 40 homework + 15 exam<sub>1</sub> + 15 exam<sub>2</sub> + 20 final exam
   
 Final letter grades will follow these ranges, approximately
-  
-letter grade | numerical grade
--------------|---------------
-A | 94-100
-A- | 90-94
-B+ | 87-90
-B  | 84-87
-B- | 80-84
-C+ | 77-80
-C | 74-77
-C- | 70-74
-D | 60-70
-F | < 60
+
+ letter grade  | A | A- | B+ | B | B- | C+ | C | C- | D | F 
+ --------------|---|----|----|---|----|----|---|----|---|--
+ numerical grade |  94-100 | 90-94 | 87-90 | 84-87 | 80-84 | 77-80 | 74-77 | 70-74 | 60-70 |  < 60
+
 
 
 **Accommodations for disabilities**: According to the Americans with Disabilities Act (as amended, 2008), each student with a disability has a right to request services from UNH to accommodate his or her disability. If you are a student with a documented disability or believe you may have a disability that requires accommodations, please contact [Student Accessibility Services (SAS)](http://www.unh.edu/studentaccessibility), 201 Smith Hall. Accommodations letters are created by SAS with the student. Please follow up with your instructor as soon as possibile to ensure timely implementation of the identified accommodations in the letter. Faculty have an obligation to respond once they receive official notice of accommodations from SAS, but they are under no obligation to provide retroactive accommodations. 
