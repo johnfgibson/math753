@@ -16,7 +16,7 @@ Prerequisite: Math 426; Math 445 or CS 410 or IAM 550
 
 **Grades**: Numerical course grades will be determined according to this formula. 
 
-  numerical grade = 10% class participation + 40% homework + 15% exam<sub>1</sub> + 15% exam<sub>2</sub> + 20% final exam
+  numerical grade = 10% class participation + 40% homework + 15% exam one + 15% exam two + 20% final exam
   
 Final letter grades will follow these ranges, approximately
 
