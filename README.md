@@ -26,34 +26,34 @@ Final letter grades will follow these ranges, approximately
 
 ## Course outline and schedule
 
-* Julia, Aug 28 -- Sep 8
+1. Julia, Aug 28 -- Sep 8
     - Why Julia?
     - Installation, start-up, usage modes
     - Numeric types, vectors, matrices
     - Plotting
     - Control flow
     - Packages
-* Nonlinear equations, Sep 11 -- Sep 15
+2. Nonlinear equations, Sep 11 -- Sep 15
     - Bisection
     - Newton's method
-* Finite-precision mathematics, Sep 18 -- Sep 25
+3. Finite-precision mathematics, Sep 18 -- Sep 25
     - Floating-point numbers
     - Floating-point arithmetic
     - Conditioning, stability, accuracy
 * **Exam 1, Julia, nonlinear equations, and finite-precision math** Sep 27 in class
-* Linear algebra, Sep 29 -- Oct 20
+4. Linear algebra, Sep 29 -- Oct 20
     - LU decomposition
     - norms and orthogonality
     - QR decomposition
     - least squares
-* Polynomials, Oct 23 -- Nov 13
+5. Polynomials, Oct 23 -- Nov 13
     - Horner's method
     - Lagrange interpolating polynomial
     - Chebyshev interpolating polynomial
     - Least-squares polynomial modes
     - Least-squares nonlinear models
 * **Exam 2, linear algebra and polynomials** Nov 15 in class
-* Numerical differentiation and integration, Nov 17 -- Nov 20
+6. Numerical differentiation and integration, Nov 17 -- Nov 20
     - Finite differencing
     - Quadrature
 7. Ordinary differential equations, Nov 27 -- Dec 8
