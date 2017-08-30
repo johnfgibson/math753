@@ -27,9 +27,9 @@ Final letter grades will follow these ranges, approximately
 ## Course outline and schedule
 
 1. Julia, Aug 28 -- Sep 8
-    - (Why Julia?)[https://github.com/johnfgibson/whyjulia]
+    - [Why Julia?](https://github.com/johnfgibson/whyjulia)
     - Installation, start-up, usage modes
-    - (Numbers and artihemtic)[julia-basics/1-Numbers.ipynb]
+    - [Numbers and artihemtic](julia-basics/1-Numbers.ipynb)
     - Vectors, matrices
     - Plotting
     - Control flow
