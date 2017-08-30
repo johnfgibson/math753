@@ -29,7 +29,7 @@ Final letter grades will follow these ranges, approximately
 1. Julia, Aug 28 -- Sep 8
     - [Why Julia?](https://github.com/johnfgibson/whyjulia)
     - Installation, start-up, usage modes
-    - [Numbers and artihemtic](julia-basics/1-Numbers.ipynb)
+    - [Numbers and arithmetic](julia-basics/1-Numbers.ipynb)
     - Vectors, matrices
     - Plotting
     - Control flow
