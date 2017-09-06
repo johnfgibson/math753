@@ -31,7 +31,7 @@ Final letter grades will follow these ranges, approximately
     - Installation, start-up, usage modes
     - [Numbers and arithmetic](julia-basics/1-Numbers.ipynb)
     - [Vectors, matrices, and arrays](julia-basics/2-Vectors-matrices-arrays.ipynb)
-    - [Dot syntax and plotting](julia-basics/3-Dot-syntax-and-plotting-pyplot.ipynb)
+    - [Dot syntax and plotting (Plots version)](julia-basics/3-Dot-syntax-and-plotting-Plots.ipynb) [(PyPlot version)](julia-basics/3-Dot-syntax-and-plotting-PyPlot.ipynb)
     - [Strings, loops, and conditionals](julia-basics/4-Strings-loops-conditionals.ipynb)
     - Packages
 2. Nonlinear equations, Sep 11 -- Sep 15
