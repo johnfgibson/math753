@@ -10,7 +10,7 @@ Prerequisite: Math 426; Math 445 or CS 410 or IAM 550
 
 **Lecture**: You are expected to attend lecture. 10% of your grade will determined by your attendance and participation in class (e.g. asking questions). What you are responsible for understanding is defined by what is covered in lecture. You learn best by giving your undivided attention to the lecture, so private discussion and use of cell phones are strictly prohibited.
 
-**Homeworks**: Homeworks will be posted to the [Math 753 website](https://github.com/johnfgibson/math753) most weeks. Homework sets will usually be in form of Julia notebooks, which you modify and then return to the instructor, either via email or [git](https://git-scm.com/) (still to be determined). Discussing homework problems with fellow students is fine, but (1) you should make your own best effort before talking with others, (2) you should get help in the form of *ideas* which you then apply to form your own independent solution, (3) you should *never copy others' work*.  
+**Homeworks**: Homeworks will be posted to the [Math 753 website](https://github.com/johnfgibson/math753/homeworks) most weeks. Homework sets will usually be in form of Julia notebooks, which you modify and then return to the instructor, either via email or [git](https://git-scm.com/) (still to be determined). Discussing homework problems with fellow students is fine, but (1) you should make your own best effort before talking with others, (2) you should get help in the form of *ideas* which you then apply to form your own independent solution, (3) you should *never copy others' work*.  
 
 **Exams**: Exams will cover new material since the last exam, except for the final exam, which is comprehensive. Exams will take place during lecture time on the dates specified on the schedule, unless changes are necessitated by snow days or other official University disruptions. Make-up or alternate exams will be given only for participants in scheduled University varsity athletic events and serious illness (e.g. hospitalization). Please notify the instructor in writing during the first week of class of scheduled University events that conflict with scheduled exams. 
 
@@ -33,10 +33,12 @@ Final letter grades will follow these ranges, approximately
     - [Vectors, matrices, and arrays](julia-basics/2-Vectors-matrices-arrays.ipynb)
     - [Dot syntax and plotting (Plots version)](julia-basics/3-Dot-syntax-and-plotting-Plots.ipynb) [(PyPlot version)](julia-basics/3-Dot-syntax-and-plotting-PyPlot.ipynb)
     - [Strings, loops, and conditionals](julia-basics/4-Strings-loops-conditionals.ipynb)
-    - Packages
+    - [Functions](julia-basics/5-Functions.ipynb)
+    - [What makes Julia special](julia-basics/6-What-makes-Julia-special.ipynb): Strict typing, type inference, multiple dispatch, and just-in-time compilation.
 2. Nonlinear equations, Sep 11 -- Sep 15
     - Bisection
     - Newton's method
+    - Secant methods
 3. Finite-precision mathematics, Sep 18 -- Sep 25
     - Floating-point numbers
     - Floating-point arithmetic
