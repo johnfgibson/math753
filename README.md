@@ -3,7 +3,7 @@
 University of New Hampshire, fall 2017  
 Instructor: John Gibson, john.gibson@unh.edu  
 Lecture: MWF 12:40-2:00pm, Kingsbury N129  
-Office hours: t.b.d. Kingsbury N309E, or after class  
+Office hours: W 11-12pm, F 2-3pm, Kingsbury N309E, or after class  
 Prerequisite: Math 426; Math 445 or CS 410 or IAM 550
 
 **Course description**: Introduction to mathematical algorithms and methods of approximation. A wide survey of approximation methods are examined including, but not limited to, polynomial interpolation, root finding, numerical integration, approximation of differential equations, and techniques used in conjunction with linear systems. Included in each case is a study of the accuracy and stability of a given technique, as well as its efficiency and complexity. It is assumed that the student is familiar and comfortable with programming a high-level computer language. (Also offered as CS 853.)
