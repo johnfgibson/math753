@@ -38,7 +38,7 @@ Final letter grades will follow these ranges, approximately
 2. Nonlinear equations, Sep 11 -- Sep 15
     - Bisection
     - Newton's method
-    - Secant methods
+    - [Secant method](lectures/09-Secant-method.ipynb)
 3. Finite-precision mathematics, Sep 18 -- Sep 25
     - Floating-point numbers
     - Floating-point arithmetic
