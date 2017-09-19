@@ -40,6 +40,7 @@ Final letter grades will follow these ranges, approximately
     - Newton's method
     - [Secant method](lectures/09-Secant-method.ipynb)
 3. Finite-precision mathematics, Sep 18 -- Sep 25
+    - [Motivation: a failed secant search](lectures/10-Failed-secant-search.ipynb)
     - Floating-point numbers
     - Floating-point arithmetic
     - Conditioning, stability, accuracy
