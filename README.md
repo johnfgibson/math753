@@ -39,18 +39,19 @@ Final letter grades will follow these ranges, approximately
     - Bisection
     - Newton's method
     - [Secant method](lectures/09-Secant-method.ipynb)
-3. Finite-precision mathematics, Sep 18 -- Sep 25
+3. Finite-precision mathematics, Sep 18 -- Oct 2
     - [Motivation: a failed secant search](lectures/10-Failed-secant-search.ipynb)
     - Floating-point numbers
     - Floating-point arithmetic
     - Conditioning, stability, accuracy
-* **Exam 1, Wed Sep 27 in class.** Julia, nonlinear equations, and finite-precision math
-4. Linear algebra, Sep 29 -- Oct 20
-    - LU decomposition
-    - norms and orthogonality
+* **Exam 1, Wed Oct 4 in class.** Nonlinear equations and finite-precision math
+4. Linear algebra, Oct 6 -- Oct 25
+    - norms, orthogonality
+    - Singular value decomposition (SVD)
+    - conditioning of matrices
     - QR decomposition
-    - least squares
-5. Polynomials, Oct 23 -- Nov 13
+    - least squares problems
+5. Polynomials, Oct 27 -- Nov 13
     - Horner's method
     - Lagrange interpolating polynomial
     - Chebyshev interpolating polynomial
