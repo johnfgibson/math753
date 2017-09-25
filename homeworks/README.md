@@ -9,4 +9,5 @@
 
 | homework | due date |
 |----------|----------|
-|[HW 1](math753-hw1.ipynb)| Sun 9/17 midnight |
+|[HW 1](math753-hw1.ipynb)| Sun 09/17 midnight |
+|[HW 2](math753-hw2.ipynb)| Sun 10/01 midnight |
