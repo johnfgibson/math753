@@ -45,26 +45,29 @@ Final letter grades will follow these ranges, approximately
     - Floating-point arithmetic
     - Conditioning, stability, accuracy
 * **Exam 1, Wed Oct 4 in class.** Nonlinear equations and finite-precision math
-4. Linear algebra, Oct 6 -- Oct 25
+4. Linear algebra, Oct 6 -- Oct 13
     - norms, orthogonality
     - conditioning of matrices
     - QR decomposition
     - least squares problems
-5. Polynomials, Oct 27 -- Nov 13
-    - Horner's method
+5. Polynomials, Oct 16 -- Nov 3
+    - Horner's method, with and without base points
     - Lagrange interpolating polynomial
+    - Vandermonde matrices
+    - Newton divided differences
     - Chebyshev interpolating polynomial
     - Least-squares polynomial modes
     - Least-squares nonlinear models
 * **Exam 2, Wed Nov 15 in class.** linear algebra and polynomials
-6. Numerical differentiation and integration, Nov 17 -- Nov 20
+6. Numerical differentiation and integration, Nov 6 -- Nov 13
     - Finite differencing
     - Quadrature
-7. Ordinary differential equations, Nov 27 -- Dec 8
+7. Ordinary differential equations, Nov 15 -- Nov 29
     - Forward Euler
     - Backward Euler
     - Midpoint method
     - Runge-Kutta methods
+8. Partial differential equations, Dec 1 -- Dec 8
 * **Final exam, sometime in Dec 12 -- 16**
 
 **Accommodations for disabilities**: According to the Americans with Disabilities Act (as amended, 2008), each student with a disability has a right to request services from UNH to accommodate his or her disability. If you are a student with a documented disability or believe you may have a disability that requires accommodations, please contact [Student Accessibility Services (SAS)](http://www.unh.edu/studentaccessibility), 201 Smith Hall. Accommodations letters are created by SAS with the student. Please follow up with your instructor as soon as possibile to ensure timely implementation of the identified accommodations in the letter. Faculty have an obligation to respond once they receive official notice of accommodations from SAS, but they are under no obligation to provide retroactive accommodations. 
