@@ -47,7 +47,6 @@ Final letter grades will follow these ranges, approximately
 * **Exam 1, Wed Oct 4 in class.** Nonlinear equations and finite-precision math
 4. Linear algebra, Oct 6 -- Oct 25
     - norms, orthogonality
-    - Singular value decomposition (SVD)
     - conditioning of matrices
     - QR decomposition
     - least squares problems
