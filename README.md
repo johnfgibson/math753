@@ -50,18 +50,18 @@ Final letter grades will follow these ranges, approximately
     - conditioning of matrices
     - QR decomposition
     - least squares problems
-5. Polynomials, Oct 16 -- Nov 3
+5. Polynomials, Oct 16 -- Oct 20
     - Horner's method, with and without base points
     - Lagrange interpolating polynomial
     - Vandermonde matrices
     - Newton divided differences
-    - Chebyshev interpolating polynomial
-    - Least-squares polynomial modes
+6. Least-squares models, Oct 23 -- Oct 27
+    - Least-squares polynomial models
     - Least-squares nonlinear models
-* **Exam 2, Wed Nov 15 in class.** linear algebra and polynomials
-6. Numerical differentiation and integration, Nov 6 -- Nov 13
+7. Numerical differentiation and integration, Oct 30 -- Nov 13
     - Finite differencing
     - Quadrature
+* **Exam 2, Wed Nov 15 in class.** Polynomials, least-squares models, numerical differentation and integration
 7. Ordinary differential equations, Nov 15 -- Nov 29
     - Forward Euler
     - Backward Euler
