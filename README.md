@@ -57,11 +57,11 @@ Final letter grades will follow these ranges, approximately
     - Newton divided differences
 6. Least-squares models, Oct 23 -- Oct 27
     - Least-squares polynomial models
-    - Least-squares nonlinear models
-7. Multidimensional nonlinear systems
+    - Least-squares linearized models
+7. Multidimensional nonlinear systems Oct 30 -- Nov 3
     - Newton method for systems of nonlinear equations
     - Gauss-Newton method for nonlinear least-squares
-8. Numerical differentiation and integration, Oct 30 -- Nov 13
+8. Numerical differentiation and integration, Nov 6 -- Nov 13
     - Finite differencing
     - Quadrature
 * **Exam 2, Wed Nov 15 in class.** Polynomials, least-squares models, multi-d nonlinear systems
