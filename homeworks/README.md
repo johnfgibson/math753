@@ -11,6 +11,6 @@
 |----------|----------|-----------|
 |[HW 1](math753-hw1.ipynb)| Sun 09/17 midnight | |
 |[HW 2](math753-hw2.ipynb)| Sun 10/01 midnight | [HW 2 solns](math753-hw2-solns.ipynb) |
-|[HW 3](math753-hw3.ipynb)| Sun 10/15 midnight | |
-|[HW 4](math753-hw4.ipynb)| Sun 10/29 midnight | |
+|[HW 3](math753-hw3.ipynb)| Sun 10/15 midnight | [HW 3 solns](math753-hw3-solns.ipynb) |
+|[HW 4](math753-hw4.ipynb)| Sun 10/29 midnight | [HW 4 solns](math753-hw4-solns.ipynb) |
 |[HW 5](math753-hw5.ipynb)| Sun 11/05 midnight | [HW 5 solns](math753-hw5-solns.ipynb) |
