@@ -81,9 +81,8 @@ Final letter grades will follow these ranges, approximately
    - rounding
    - finite-precision arithmetic
 2. Nonlinear equations
-   - Newton method and bisection method, 1-d
-   - multidimensional Newton method
-   - formulae, algorithm, derivation
+   - 1-d bisection method, 1-d and multi-d Newton method
+   - formulae, algorithms, derivation
    - convergence rates
    - requirements, advantages, disadvantages
 3. Polynomials
