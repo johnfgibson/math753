@@ -71,7 +71,38 @@ Final letter grades will follow these ranges, approximately
     - Midpoint method
     - Runge-Kutta methods
 10. Partial differential equations, Dec 1 -- Dec 8
-* **Final exam, sometime in Dec 12 -- 16**
+    - heat equation, implicit versus explicit
+    - Kuramoto-Sivashinky equation: operator splitting, spectral methods
+
+
+**Final exam, Dec 13, 2017 10:30am-12:30pm Kingsbury N129**
+1. Finite precision mathematics
+   - machine epsilon
+   - rounding
+   - finite-precision arithmetic
+2. Nonlinear equations
+   - Newton method and bisection method, 1-d
+   - multidimensional Newton method
+   - formulae, algorithm, derivation
+   - convergence rates
+   - requirements, advantages, disadvantages
+3. Polynomials
+   - Horner's method
+   - Lagrange interpolating polynomial
+   - Newton divided differences
+   - Vandermonde matrices
+4. Nonlinear models
+   - y=c exp(at), y = ct^n, y = c t exp(at)
+   - linearization of above
+   - solution for constants via Ax=b problem
+   - Gauss-Newton method for nonlinear least-squares
+5. Ordinary differential equations
+   - explicit methods: forward Euler, midpoint method, and 4th-order Runge-Kutta
+   - implicit methods: backward Euler, implicit trapezoid
+   - formulae and global error order of above
+   - difference between implicit and explicit methods, pros and cons
+   - stiff equations, what are they?
+   
 
 **Accommodations for disabilities**: According to the Americans with Disabilities Act (as amended, 2008), each student with a disability has a right to request services from UNH to accommodate his or her disability. If you are a student with a documented disability or believe you may have a disability that requires accommodations, please contact [Student Accessibility Services (SAS)](http://www.unh.edu/studentaccessibility), 201 Smith Hall. Accommodations letters are created by SAS with the student. Please follow up with your instructor as soon as possibile to ensure timely implementation of the identified accommodations in the letter. Faculty have an obligation to respond once they receive official notice of accommodations from SAS, but they are under no obligation to provide retroactive accommodations. 
 
