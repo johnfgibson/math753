@@ -51,7 +51,7 @@ Final letter grades will follow these ranges, approximately
     - QR decomposition
     - least squares problems
 5. Polynomials, Oct 16 -- Oct 20
-    - Horner's method, with and without base points
+    - Horner's method, with and without base point
     - Lagrange interpolating polynomial
     - Vandermonde matrices
     - Newton divided differences
@@ -90,12 +90,17 @@ Final letter grades will follow these ranges, approximately
    - Lagrange interpolating polynomial
    - Newton divided differences
    - Vandermonde matrices
-4. Nonlinear models
+4. Linear systems
+   - QR decomp
+   - Ax=b problems
+   - least squares
+   - conditioning, stability, accuracy
+5. Nonlinear models
    - y=c exp(at), y = ct^n, y = c t exp(at)
    - linearization of above
    - solution for constants via Ax=b problem
    - Gauss-Newton method for nonlinear least-squares
-5. Ordinary differential equations
+6. Ordinary differential equations
    - explicit methods: forward Euler, midpoint method, and 4th-order Runge-Kutta
    - implicit methods: backward Euler, implicit trapezoid
    - formulae and global error order of above
